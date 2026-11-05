@@ -1139,3 +1139,9 @@ gantt
 
 ## Conclusiones
 La implementación de una estrategia de pruebas estructurada y piramidal para la aplicación **Task Manager** demuestra que la calidad de software no es una fase final, sino una disciplina continua. Al combinar pruebas unitarias rápidas, pruebas de integración orientadas a la prevención de vulnerabilidades críticas como BOLA/IDOR, pruebas de widgets desacopladas y flujos E2E focalizados, se garantiza un producto robusto, accesible y seguro para los usuarios.
+
+
+## Evidencias
+![alt text](image.png)
+
+![alt text](image-1.png)
