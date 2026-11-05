@@ -6,3 +6,4 @@ mobile/.dart_tool/
 .env
 "@ | Out-File -Encoding utf8 .gitignore
 ~$*
+Actividad_Testing_Task_Manager_Resuelta.*
