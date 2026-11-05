@@ -1,0 +1,8 @@
+@"
+node_modules/
+mobile/build/
+mobile/.dart_tool/
+~`$*
+.env
+"@ | Out-File -Encoding utf8 .gitignore
+~$*
